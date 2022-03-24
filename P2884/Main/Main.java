@@ -1,4 +1,4 @@
-package backjoon.P2884.Main;
+package P2884.Main;
 
 import java.util.Calendar;
 import java.text.SimpleDateFormat;

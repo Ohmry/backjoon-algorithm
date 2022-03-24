@@ -1,4 +1,4 @@
-package backjoon.P1157.Main;
+package P1157.Main;
 
 import java.util.Scanner;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package backjoon.P10818.Main;
+package P10818.Main;
 
 import java.util.Scanner;
 

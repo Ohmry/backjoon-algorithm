@@ -1,4 +1,4 @@
-package backjoon.P15552.Main;
+package P15552.Main;
 
 import java.io.IOException;
 import java.io.BufferedReader;

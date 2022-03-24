@@ -1,4 +1,4 @@
-package backjoon.P2739.Main;
+package P2739.Main;
 
 import java.util.Scanner;
 

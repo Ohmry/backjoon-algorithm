@@ -1,4 +1,4 @@
-package backjoon.P10172.Main;
+package P10172.Main;
 
 public class Main {
     public static void main(String[] args) {

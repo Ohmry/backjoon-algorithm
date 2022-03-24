@@ -1,4 +1,4 @@
-package backjoon.P15596.Test;
+package P15596.Test;
 
 public class Test {
   public long sum(int [] a) {

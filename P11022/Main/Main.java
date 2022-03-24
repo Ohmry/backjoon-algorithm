@@ -1,4 +1,4 @@
-package backjoon.P11022.Main;
+package P11022.Main;
 
 import java.io.*;
 

@@ -1,4 +1,4 @@
-package backjoon.P8393.Main;
+package P8393.Main;
 
 import java.util.Scanner;
 
